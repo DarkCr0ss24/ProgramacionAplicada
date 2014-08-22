@@ -1,0 +1,4 @@
+Jose Javier Garcia Villarreal,5.0,8.0,7.0,5.0,9.0
+ricardo martinez,100.0,71.0,56.0,81.0,78.0,81.0
+Alfredo Irvin,5.0,7.0
+Christian Chong,90.0,50.0
